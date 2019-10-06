@@ -8,3 +8,5 @@ How i created my static website using s3 service
 # goDaddy 
 sureshvenkey25
 
+# License
+This project is licensed under the MIT License - see the LICENSE.md file for details
