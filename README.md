@@ -7,7 +7,8 @@ How i created my static website using s3 service
 4. Review and finish.
 
 ## goDaddy 
-sureshvenkey25
+Add the CNAME entry in goDaddy for your website i.e. www.sureshvenkey.com
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
