@@ -18,5 +18,7 @@ By forwarding to s3 bucket
 
 Default value you get in DNS A and CNAME resords for forward settings.
 
+![Image of Yaktocat](https://github.com/sureshvenkey/s3_static_website/blob/master/default_value_comes_while_forwarding.PNG)
+
 ## License
 This project is licensed under the MIT License - see the LICENSE.md file for details
