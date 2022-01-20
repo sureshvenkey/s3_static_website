@@ -6,6 +6,20 @@ How i created my static website using s3 service
 3. Un select "Block all public access" in "Set Permission"  and procced Next.  
 4. Review and finish.
 
+## In addtion to this add a policy as mentioned below  
+{
+    "Version": "2012-10-17",
+    "Statement": [
+        {
+            "Sid": "PublicReadGetObject",
+            "Effect": "Allow",
+            "Principal": "*",
+            "Action": "s3:GetObject",
+            "Resource": "arn:aws:s3:::www.venkatraj.in/*"
+        }
+    ]
+}
+
 ## goDaddy 
 ### First method
 Add the CNAME entry in goDaddy for your website i.e. www.sureshvenkey.com
