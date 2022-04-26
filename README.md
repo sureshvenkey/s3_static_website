@@ -15,7 +15,7 @@ How i created my static website using s3 service
             "Effect": "Allow",  
             "Principal": "*",  
             "Action": "s3:GetObject",  
-            "Resource": "arn:aws:s3:::www.venkatraj.in/*"  
+            "Resource": "arn:aws:s3:::www.venkatraj.bucket/*"  
         }  
     ]  
 }  
